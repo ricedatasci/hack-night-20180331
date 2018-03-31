@@ -1,0 +1,10 @@
+name: ml3.6
+dependencies:
+  - python=3.6
+  - matplotlib
+  - jupyter
+  - jupyterlab
+  - numpy
+  - seaborn
+  - pandas
+  - scipy
